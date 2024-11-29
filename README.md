@@ -6,83 +6,95 @@ This repository contains various programs implementing fundamental data structur
 
 ## List of Programs
 
+### Linked List Implementations
+1. **Singly Linked List**: [`Code1.c`](Code1.c)  
+   Implements insertion and deletion at the first, last, and middle positions in a singly linked list, along with a display method.
+
+2. **Doubly Linked List**: [`Code2.c`](Code2.c)  
+   Implements insertion and deletion at the first, last, and middle positions in a doubly linked list, along with a display method.
+
+3. **Polynomial Addition Using Linked List**: [`Code3.c`](Code3.c)  
+   Implements polynomial addition using linked lists.
+
+---
+
 ### Sorting Algorithms
-1. **Bubble Sort**: [`bubble_sort.c`](bubble_sort.c)  
+4. **Bubble Sort**: [`Code4.c`](Code4.c)  
    Implements the bubble sort algorithm for sorting an array of integers.
 
-2. **Insertion Sort**: [`insertion_sort.c`](insertion_sort.c)  
+5. **Insertion Sort**: [`Code5.c`](Code5.c)  
    Implements the insertion sort algorithm for sorting an array of integers.
 
-3. **Selection Sort**: [`selection_sort.c`](selection_sort.c)  
+6. **Selection Sort**: [`Code6.c`](Code6.c)  
    Implements the selection sort algorithm for sorting an array of integers.
 
-4. **Merge Sort**: [`merge_sort.c`](merge_sort.c)  
+7. **Merge Sort**: [`Code7.c`](Code7.c)  
    Implements merge sort for dividing an array into smaller sub-arrays, sorting, and merging them.
 
-5. **Quick Sort**: [`quick_sort.c`](quick_sort.c)  
+8. **Quick Sort**: [`Code8.c`](Code8.c)  
    Implements quick sort using the divide-and-conquer approach.
 
 ---
 
 ### Searching Algorithms
-6. **Linear Search**: [`linear_search.c`](linear_search.c)  
+9. **Linear Search**: [`Code9.c`](Code9.c)  
    Implements linear search to find an element in an array.
 
-7. **Binary Search (Non-Recursive)**: [`binary_search_iterative.c`](binary_search_iterative.c)  
-   Implements binary search without recursion.
+10. **Binary Search (Non-Recursive)**: [`Code10.c`](Code10.c)  
+    Implements binary search without recursion.
 
-8. **Binary Search (Recursive)**: [`binary_search_recursive.c`](binary_search_recursive.c)  
-   Implements binary search using recursion.
+11. **Binary Search (Recursive)**: [`Code11.c`](Code11.c)  
+    Implements binary search using recursion.
 
 ---
 
 ### Stack Implementations
-9. **Stack Using Array**: [`stack_array.c`](stack_array.c)  
-   Demonstrates stack operations (push, pop, and display) using arrays.
+12. **Stack Using Array**: [`Code12.c`](Code12.c)  
+    Demonstrates stack operations (push, pop, and display) using arrays.
 
-10. **Stack Using Linked List**: [`stack_linked_list.c`](stack_linked_list.c)  
+13. **Stack Using Linked List**: [`Code13.c`](Code13.c)  
     Demonstrates stack operations (push, pop, and display) using a linked list.
 
 ---
 
 ### Queue Implementations
-11. **Linear Queue Using Array**: [`linear_queue_array.c`](linear_queue_array.c)  
+14. **Linear Queue Using Array**: [`Code14.c`](Code14.c)  
     Implements a linear queue using arrays with enqueue and dequeue operations.
 
-12. **Linear Queue Using Linked List**: [`linear_queue_linked_list.c`](linear_queue_linked_list.c)  
+15. **Linear Queue Using Linked List**: [`Code15.c`](Code15.c)  
     Implements a linear queue using a linked list.
 
-13. **Circular Queue Using Array**: [`circular_queue_array.c`](circular_queue_array.c)  
+16. **Circular Queue Using Array**: [`Code16.c`](Code16.c)  
     Demonstrates a circular queue using arrays for efficient space usage.
 
-14. **Circular Queue Using Linked List**: [`circular_queue_linked_list.c`](circular_queue_linked_list.c)  
+17. **Circular Queue Using Linked List**: [`Code17.c`](Code17.c)  
     Implements a circular queue using a linked list.
 
-15. **Double-Ended Queue (Input Restricted) Using Array**: [`deque_input_restricted_array.c`](deque_input_restricted_array.c)  
+18. **Double-Ended Queue (Input Restricted) Using Array**: [`Code18.c`](Code18.c)  
     Implements a double-ended queue allowing insertions only at one end.
 
-16. **Double-Ended Queue (Input Restricted) Using Linked List**: [`deque_input_restricted_linked_list.c`](deque_input_restricted_linked_list.c)  
+19. **Double-Ended Queue (Input Restricted) Using Linked List**: [`Code19.c`](Code19.c)  
     Implements the same functionality using a linked list.
 
-17. **Double-Ended Queue (Output Restricted) Using Array**: [`deque_output_restricted_array.c`](deque_output_restricted_array.c)  
+20. **Double-Ended Queue (Output Restricted) Using Array**: [`Code20.c`](Code20.c)  
     Implements a double-ended queue allowing deletions only at one end.
 
-18. **Double-Ended Queue (Output Restricted) Using Linked List**: [`deque_output_restricted_linked_list.c`](deque_output_restricted_linked_list.c)  
+21. **Double-Ended Queue (Output Restricted) Using Linked List**: [`Code21.c`](Code21.c)  
     Implements the same functionality using a linked list.
 
 ---
 
 ### Tree Implementations
-19. **Binary Search Tree**: [`binary_search_tree.c`](binary_search_tree.c)  
+22. **Binary Search Tree**: [`Code22.c`](Code22.c)  
     Implements a binary search tree with operations like insertion, traversals (preorder, inorder, postorder), finding the smallest/largest nodes, and counting nodes.
 
 ---
 
 ### Graph Algorithms
-20. **Breadth-First Search (BFS)**: [`bfs.c`](bfs.c)  
+23. **Breadth-First Search (BFS)**: [`Code23.c`](Code23.c)  
     Implements the BFS algorithm for graph traversal.
 
-21. **Depth-First Search (DFS)**: [`dfs.c`](dfs.c)  
+24. **Depth-First Search (DFS)**: [`Code24.c`](Code24.c)  
     Implements the DFS algorithm for graph traversal.
 
 ---
