@@ -1,1 +1,1 @@
-# DataStructre
+Data Structures
