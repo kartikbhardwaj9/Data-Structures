@@ -91,4 +91,4 @@ This repository contains various programs implementing fundamental data structur
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/kartikbhardwaj9/Data-Structures.git
